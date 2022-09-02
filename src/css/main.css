@@ -1,1 +1,42 @@
 /* Your CSS here. */
+.outerdiv {
+    text-align: center;
+    width: 800px;
+    height: 600px;
+    background-color: #606785;
+    margin: auto;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    position: static;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0px;
+    color: white;
+    font-family:cursive
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+a {
+    display: block;
+    color:rgb(255, 129, 129);
+}
+
+.p1 {
+    margin: 10px;
+    color: white;
+}
+
+.p2 {
+    margin: 10px;
+    color: white;
+}
